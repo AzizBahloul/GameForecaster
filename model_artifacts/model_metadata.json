@@ -1,0 +1,29 @@
+{
+    "training_date": "2024-11-01 20:41:25",
+    "data_size": 6894,
+    "features_used": [
+        "Genre",
+        "Publisher",
+        "Developer",
+        "Rating",
+        "NA_Sales",
+        "EU_Sales",
+        "JP_Sales",
+        "Other_Sales",
+        "Global_Sales",
+        "Critic_Score",
+        "Critic_Count",
+        "User_Score",
+        "User_Count"
+    ],
+    "best_parameters": {
+        "max_depth": 10,
+        "min_samples_split": 2,
+        "n_estimators": 100
+    },
+    "missing_values": {
+        "Publisher": 1,
+        "Developer": 4,
+        "Rating": 68
+    }
+}
