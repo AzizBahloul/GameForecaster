@@ -1,0 +1,2 @@
+# GameForecaster
+python package
